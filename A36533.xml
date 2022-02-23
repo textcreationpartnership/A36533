@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dream</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36533</idno>
+            <idno type="STC">Wing D2157</idno>
+            <idno type="STC">ESTC R26739</idno>
+            <idno type="EEBO-CITATION">09527682</idno>
+            <idno type="OCLC">ocm 09527682</idno>
+            <idno type="VID">43514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1329:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dream</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attack in verse on James II and his advisors.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Poetry.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:43514:1"/>
+            <!-- PDF PAGE 58 -->
+            <head>The Dream.</head>
+            <l>WEary'd with Buſineſs, and with Cares oppreſt,</l>
+            <l>My Faculties were Doz'd and fond of reſt,</l>
+            <l>An unuſual heavineſs did on me creep,</l>
+            <l>My Soul Indulg'd it: yet I could not ſleep,</l>
+            <l>Dreams ſhort and frightful vext me all the Night,</l>
+            <l>I found I was betray'd and long'd for Light;</l>
+            <l>The firſt ſuch Wonders brought within my view,</l>
+            <l>And when I wak'd I almoſt thought 'em true:</l>
+            <l>Me thought I ſaw great <hi>Julius</hi> ſadly lie</l>
+            <l>Bleeding from all his Wounds, and <hi>Brutus</hi> by,</l>
+            <lg>
+               <l>The ungrateful <hi>Brutus</hi> which he dot'd on,</l>
+               <l>With <hi>Meager Caſſius</hi> pleas'd with what he had done</l>
+               <l>Crying the World and <hi>Brutus</hi> are my own;</l>
+            </lg>
+            <l>I nearer drew to view the Gaſtly Trunk,</l>
+            <l>But oh! the Scene was chang'd, <hi>Caeſar</hi> was ſunk,</l>
+            <l>'Twas <hi>Charles</hi> the Second, which lay mangl'd there,</l>
+            <l>The Sacrificing-Tribe too did appear,</l>
+            <l>
+               <hi>Brutus</hi> and <hi>Caſſius, Y—k</hi> and <hi>Petre</hi> were;</l>
+            <lg>
+               <l>
+                  <hi>Charles</hi> Weeping graſp'd his Brother by the hand:</l>
+               <l>I heard him ſighing ſay, within my Land</l>
+               <l>A faithful Pious Mother thou wilt command,</l>
+            </lg>
+            <l>Who in the utmoſt of Extremity,</l>
+            <l>When all but her and much Ubraided, I</l>
+            <l>Wou'd from the Crown have quite Excluded thee,</l>
+            <l>
+               <pb n="2" facs="tcp:43514:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->
+Preach'd up thy forfeit Title by our Laws,</l>
+            <l>And in thy Baniſhment maintain thy Cauſe,</l>
+            <l>Paſſive Obedience thee haſt much in ſtore,</l>
+            <l>But do not Urge it to thy utmoſt Power:</l>
+            <l>
+               <hi>James</hi> to preſerve Her moſt devoutly Swore;</l>
+            <l>
+               <hi>Charles</hi> Dy,d, and <hi>James</hi> diſcharg'd his Oath next hour,</l>
+            <lg>
+               <l>I ſaw the Prieſts flock in: the Biſhops out,</l>
+               <l>Saw <hi>Peters</hi> cram the Wafers down his Throat</l>
+               <l>Tho' Dead it ſav'd the Heretick no doubt,</l>
+            </lg>
+            <l>I ſaw him poorly Bury'd in the Night,</l>
+            <l>A wretched Train, and a more wretched Sight,</l>
+            <l>To me it ſeem'd a Funeral in Diſguiſe,</l>
+            <l>For fear his Creditors ſhou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Body Seize,</l>
+            <l>I ſaw him ſhewn for two <hi>pence</hi> in a Cheſt,</l>
+            <l>Like <hi>Monk.</hi> Old <hi>Harry, Mary</hi> and the reſt,</l>
+            <l>And if the Figure anſwer'd it's intent,</l>
+            <l>In Ten years time 'twould buy a Monument:</l>
+            <lg>
+               <l>My Fancy brought me back again to Court</l>
+               <l>Where only Fools Adviſe, and Knaves Reſort,</l>
+               <l>Our Kingdoms Curſe and other Nations Sport:</l>
+            </lg>
+            <l>I heard the <hi>Jeſuits</hi> in a grand Cabal</l>
+            <l>Reſolve to Root out <hi>Hereſie</hi> or fall,</l>
+            <lg>
+               <l>Each his particular Opinion gave,</l>
+               <l>They cry'd an oppertunity we have</l>
+               <l>To Fetter Her who kept us long Her Slave;</l>
+            </lg>
+            <lg>
+               <l>Immediately they pitch'd upon a Rule,</l>
+               <l>How to ſuppreſs it by a forward Fool,</l>
+               <l>A Bawling blund'ring ſenſeleſs Tool,</l>
+            </lg>
+            <l>Whoſe Mouthing at <hi>White-Chappel</hi> firſt began,</l>
+            <l>Who regularly to his Greatneſs ran</l>
+            <l>Thro' all the vile degrees of Treachery,</l>
+            <l>And now Uſurps the Court of Equity?</l>
+            <l>He ſaid, if you wou'd bring the Clergy down,</l>
+            <l>Erect a Court-Commiſſion from the Crown,</l>
+            <l>
+               <pb n="3" facs="tcp:43514:2"/>
+               <!-- PDF PAGE 59 -->
+And for Diſpencing Law let me alone,</l>
+            <l>They hug'd their Buble, and the Deed was done;</l>
+            <l>
+               <hi>Petre</hi> grew Fat, and with <hi>Mandamus</hi>'s</l>
+            <l>Cancker'd the Worthy <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi>
+            </l>
+            <l>The Seats of Learning Black-heads might command,</l>
+            <l>Yet the Kings Promiſe to the Church doth ſtand;</l>
+            <l>Next <hi>Liberty of Conſcience</hi> was Ordain'd;</l>
+            <l>The Biſhops for Contempt were then Arraign'd;</l>
+            <l>The Nobles and the Commons Cloſetted,</l>
+            <l>The <hi>Penal-Laws</hi> muſt be Aboliſhed,</l>
+            <lg>
+               <l>If you refuſe, your Principles are baſe,</l>
+               <l>Diſloyal, and you loſe our Royal Grace,</l>
+               <l>And each that has Dependancies his place;</l>
+            </lg>
+            <l>
+               <hi>Rocheſter</hi> fell, the Loyal <hi>Herbert</hi> ſtarv'd,</l>
+            <l>Each that forſook his God his Monarch ſerv'd,</l>
+            <l>
+               <hi>Somerſet</hi> loſt his Troops, and <hi>Shrowsbury,</hi>
+            </l>
+            <l>
+               <hi>Oxford</hi> was ſtrip'd to <hi>Scarſdal Lumbley,</hi>
+            </l>
+            <l>And many more too tedious to relate,</l>
+            <l>By whom in ſafety <hi>James</hi> thou now doſt ſit,</l>
+            <l>When thou perceiv'dſt no Comfort from this Wild,</l>
+            <l>Thy Dame immediately was quick with Child,</l>
+            <l>The Princeſs at the <hi>Bath</hi> when it was Born,</l>
+            <l>The Biſhops in the <hi>Tower,</hi> yet had he Sworn</l>
+            <l>The <hi>Church of England</hi> never ſhould be wrong'd,</l>
+            <l>Upon this News the Hot-brain'd Papiſts Throng'd;</l>
+            <l>I Wak'd, and as I on my Dream Reflected,</l>
+            <l>My reaſonable Notions thus projected,</l>
+            <l>O King, I cry'd, thy Meaſures run too faſt,</l>
+            <l>And thou wilt find the Curſe of it at laſt,</l>
+            <l>Why doſt thou wrong thy Country, ſhame thy Life:</l>
+            <l>To pleaſe falſe Prieſts, and an ungrateful Wife,</l>
+            <l>A Wife whoſe Character has always been<g ref="char:punc">▪</g>
+            </l>
+            <l>A Fawning Dutcheſs, and a Sawcy Queen:</l>
+            <l>How canſt thou ſuffer <hi>Petre</hi>'s Inſolence,</l>
+            <l>Who only makes a harveſt of his Prince,</l>
+            <l>
+               <pb n="4" facs="tcp:43514:3"/>
+               <!-- PDF PAGE 60 -->
+A Slave to Rule Three Kingdoms Govern thee,</l>
+            <l>Yet ne're was Maſter of a Family;</l>
+            <lg>
+               <l>This Serpent envying thy Happineſs,</l>
+               <l>Has crept into thy Eve whoſe willfulneſs</l>
+               <l>Has certainly betray'd thy Paradiſe,</l>
+            </lg>
+            <l>Deſcerning <hi>Hallifax</hi> thy fall fore ſaw.</l>
+            <l>And early did his ſlighted Faith withdraw,</l>
+            <l>He needs no pardon for the advice he gave,</l>
+            <l>Which ſhews him Honeſter than ſome that have,</l>
+            <l>Under the Roſe Men uſe their mind to tell;</l>
+            <l>But now <hi>Myne-Heir</hi> 'tis under the broad Seal;</l>
+            <l>O <hi>Naſſaw</hi> with thy promis'd Succours come,</l>
+            <l>And be to us like <hi>Anthony</hi> to <hi>Rome,</hi>
+            </l>
+            <l>Thy Wife ſhall young <hi>Octavia</hi>'s place ſupply,</l>
+            <l>And thoſe that have betray'd our Country fly,</l>
+            <l>Unleſs the King to prove the Prince his own,</l>
+            <l>Shall to the Lyons-Den preſent his Son,</l>
+            <l>And if the Royal Brute do not deſtroy,</l>
+            <l>The Infant by Chriſt 'tis his none Joy.</l>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:43514:3"/>
+            <!-- PDF PAGE 60 -->
+         </div>
+      </body>
+   </text>
+</TEI>
